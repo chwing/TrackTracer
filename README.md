@@ -1,15 +1,15 @@
-# TrackTracer 🎵
+# TrackTracer
 
 ## The Problem
 
 Have you ever been watching a concert video, live performance, or music festival stream on YouTube and wondered: *"What song is playing right now?"* 
 
 As a music lover, you've probably experienced this frustration:
-- 🎬 Watching a live concert or DJ set
-- 🤔 Hearing an amazing track but having no idea what it is
-- 📝 The description might list songs, but with timestamps that are hard to follow
-- 🔍 No easy way to identify which track is playing at a specific moment in the video
-- 😤 Scrolling through comments hoping someone mentioned the song
+- Watching a live concert or DJ set
+- Hearing an amazing track but having no idea what it is
+- The description might list songs, but with timestamps that are hard to follow
+- No easy way to identify which track is playing at a specific moment in the video
+- Scrolling through comments hoping someone mentioned the song
 
 **TrackTracer was created to solve this exact problem.**
 
@@ -27,14 +27,14 @@ TrackTracer is a web application designed for music lovers, festival-goers, and 
 
 ## Features
 
-✨ **Core Functionality:**
+**Core Functionality:**
 - Extract song lists from YouTube video descriptions and comments
 - Identify songs at specific timestamps using music recognition
 - Handle YouTube links with playlist parameters
 - Support for live streams, concerts, DJ sets, and music festivals
 - Smart fallback mechanisms when standard metadata isn't available
 
-🎨 **User Experience:**
+**User Experience:**
 - Clean, intuitive interface for pasting YouTube URLs
 - Dynamic, scrollable song list with proper formatting
 - Easy-to-read song information with timestamps
@@ -42,11 +42,11 @@ TrackTracer is a web application designed for music lovers, festival-goers, and 
 
 ## Who Is This For?
 
-- 🎵 **Music Lovers** - Discover new artists and tracks from your favorite videos
-- 🎪 **Festival Attendees** - Find tracks from festival live streams
-- 🎤 **Concert Fans** - Identify songs from concert performances
-- 🎧 **DJ Enthusiasts** - Track songs from DJ sets and mixes
-- 🔍 **Music Curators** - Build playlists from YouTube videos
+- **Music Lovers** - Discover new artists and tracks from your favorite videos
+- **Festival Attendees** - Find tracks from festival live streams
+- **Concert Fans** - Identify songs from concert performances
+- **DJ Enthusiasts** - Track songs from DJ sets and mixes
+- **Music Curators** - Build playlists from YouTube videos
 
 ## Tech Stack
 
@@ -70,7 +70,7 @@ TrackTracer is a web application designed for music lovers, festival-goers, and 
 
 ## Project Status
 
-🚀 Active development - Continuously improving song detection accuracy and user experience
+Active development - Continuously improving song detection accuracy and user experience
 
 ## Vision
 
